@@ -17,7 +17,7 @@ There is only the notebook code. All survey data are of responsible of Stack Ove
 
 # Results
 
-This noteboot is explanatory and serves as complementary material of <a href = "blog post">this post on Medium.</a>
+This noteboot is explanatory and serves as complementary material of <a href = "https://medium.com/@bsvaz/relationship-between-educational-levels-and-jobs-in-the-technology-world-6b191ec77d6d">this post on Medium.</a>
 
 # Licensing, Authors, Acknowledgements
 
