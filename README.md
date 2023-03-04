@@ -5,7 +5,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 # Project Motivation
 
 This project was made for Data Science Nanodegree program from Udacity.
-This project was made based on Stack Overflow survey from 2022. I was interest in general questions about the relationship between scholary and kinds of jobs. Shome of those are:
+This project was made based on Stack Overflow survey from 2022. I was interest in general questions about the relationship between scholary and kinds of jobs. Some of those are:
 
 - What is the influence of scholarly on salary ?
 - What kind of jobs is better suitted for each scholarly level ?
